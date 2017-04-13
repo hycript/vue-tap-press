@@ -1,0 +1,9 @@
+{
+  "name": "vue-tap-press",
+  "version": "0.0.1",
+  "description": "vue2.x directive about tap doubletap press event",
+  "main": "src/index.js",
+  "repository": "https://github.com/hycript/vue-tap-press.git",
+  "author": "LosMessi",
+  "license": "MIT"
+}
