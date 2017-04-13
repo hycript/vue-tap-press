@@ -62,7 +62,7 @@ modifiers | describe
 
 modifiers | describe
 ---|---
-.delay | tap event will be delay dispatch by the directive value , defalut 300ms; 
+.delay | tap event will be delay dispatch by the directive value , default 300ms; 
 .doubletap | DOM will dispatch doubletap event,if it has reach condition to dispatch doubletap event , it will not dispatch tap event ;
 
 ### v-press only
