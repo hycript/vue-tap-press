@@ -1,2 +1,2 @@
 # vue-tap-press
-vue directive about tap doubletap press event
+vue2.x directive about tap doubletap press event
