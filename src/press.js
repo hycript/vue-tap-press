@@ -87,7 +87,7 @@ export default (function(){
 
                 ev = null;
                 originalEvent = null;
-                timer = null;
+                time = null;
             }
 
             function removeEventListener(){
