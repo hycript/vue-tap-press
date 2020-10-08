@@ -1,6 +1,6 @@
 {
   "name": "vue-tap-press",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vue2.x directive about tap doubletap press event",
   "main": "src/index.js",
   "repository": "https://github.com/hycript/vue-tap-press.git",
